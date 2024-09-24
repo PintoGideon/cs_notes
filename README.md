@@ -1,5 +1,4 @@
-# cs_notes
-Prep Model
+# First Semester
 
 1. Algorithms Design By Steven Skienna
 2. Data Structures and Algorithms in Python
